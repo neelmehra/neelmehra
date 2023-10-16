@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelmehra&label=Profile%20views&color=0e75b6&style=flat" alt="neelmehra" /> </p>
 
-- 🤝 I’m looking for help with **Analysis**
+- 🤝 Playing with numbers and **Analysis**
 
 - 📫 How to reach me **mehraneelam065@gmail.com**
 
